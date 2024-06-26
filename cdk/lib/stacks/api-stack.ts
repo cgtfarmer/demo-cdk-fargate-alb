@@ -8,7 +8,6 @@ import { ApplicationLoadBalancer } from 'aws-cdk-lib/aws-elasticloadbalancingv2'
 import { Construct } from 'constructs';
 
 interface ApiStackProps extends StackProps {
-  certDomainName?: string;
   ecrRepository: Repository;
 }
 
