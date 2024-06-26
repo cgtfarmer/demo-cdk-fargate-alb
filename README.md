@@ -54,4 +54,3 @@ This is a demo showing how to deploy a simple Express API to ECS Fargate, behind
 6. Deploy API Stack
 
 `cdk deploy ApiStack`
-
