@@ -2,6 +2,8 @@
 
 This is a demo showing how to deploy a simple Express API to ECS Fargate, behind a publicly accessible Application Load Balancer
 
+![LessonGraphics-ALB-Fargate](https://github.com/cgtfarmer/demo-cdk-fargate-alb/assets/33764231/c1c1deb6-1c21-481f-8c0d-18d5e332e155)
+
 ## Prerequisites
 
 - Docker
